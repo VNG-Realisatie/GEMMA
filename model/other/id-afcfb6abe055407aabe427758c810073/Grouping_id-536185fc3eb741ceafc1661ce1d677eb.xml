@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerkservices"
+    id="id-536185fc3eb741ceafc1661ce1d677eb"
+    documentation="Groepering van services die worden geleverd via een netwerk om de communicatie en gegevensuitwisseling tussen apparaten, applicaties of gebruikers te vergemakkelijken.">
+  <properties
+      key="Object ID"
+      value="f762ce61-83a3-4498-b3f5-9d7dcaabdf18"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiegroep"/>
+</archimate:Grouping>

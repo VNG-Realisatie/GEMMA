@@ -1612,16 +1612,15 @@
             font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
             fontColor="#000000"
             lineColor="#000000"
-            fillColor="#daeef3"
-            type="1">
+            fillColor="#daeef3">
           <bounds
               x="10"
               y="40"
               width="220"
               height="80"/>
           <archimateElement
-              xsi:type="archimate:ApplicationComponent"
-              href="ApplicationComponent_id-8c2cf498-380a-4fc1-b8ce-becf802d6371.xml#id-8c2cf498-380a-4fc1-b8ce-becf802d6371"/>
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_id-23028632af1a4a0b98a9f24b8d4d36d3.xml#id-23028632af1a4a0b98a9f24b8d4d36d3"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
@@ -1858,16 +1857,15 @@
             font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
             fontColor="#000000"
             lineColor="#000000"
-            fillColor="#daeef3"
-            type="1">
+            fillColor="#daeef3">
           <bounds
               x="17"
               y="38"
               width="220"
               height="80"/>
           <archimateElement
-              xsi:type="archimate:ApplicationComponent"
-              href="ApplicationComponent_id-b05eaafa-9381-45ae-a41d-7a9affaa43cd.xml#id-b05eaafa-9381-45ae-a41d-7a9affaa43cd"/>
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_id-272b0b89c68b4c1192089adda72ba526.xml#id-272b0b89c68b4c1192089adda72ba526"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
@@ -1909,16 +1907,15 @@
             font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
             fontColor="#000000"
             lineColor="#000000"
-            fillColor="#daeef3"
-            type="1">
+            fillColor="#daeef3">
           <bounds
               x="16"
               y="31"
               width="220"
               height="80"/>
           <archimateElement
-              xsi:type="archimate:ApplicationComponent"
-              href="ApplicationComponent_id-b05eaafa-9381-45ae-a41d-7a9affaa43cd.xml#id-b05eaafa-9381-45ae-a41d-7a9affaa43cd"/>
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_id-272b0b89c68b4c1192089adda72ba526.xml#id-272b0b89c68b4c1192089adda72ba526"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"

@@ -6,8 +6,8 @@
       key="Object ID"
       value="9192957a-e5fe-47d9-b299-8fc9123bb65d"/>
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-e64d7120-5d0e-42b2-ba4b-a72658839b5a.xml#id-e64d7120-5d0e-42b2-ba4b-a72658839b5a"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-f6b1fa18c6af4738899fcd00e0d76970.xml#id-f6b1fa18c6af4738899fcd00e0d76970"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-24f3d88e953341d98bd5438bb32466b6.xml#id-24f3d88e953341d98bd5438bb32466b6"/>

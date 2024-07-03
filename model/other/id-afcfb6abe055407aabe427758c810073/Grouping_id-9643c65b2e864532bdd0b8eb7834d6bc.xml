@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensuitwisselingsservices"
+    id="id-9643c65b2e864532bdd0b8eb7834d6bc"
+    documentation="Groepering van services die het uitwisselen van informatie tussen systemen, applicaties of gebruikers mogelijk maken.">
+  <properties
+      key="Object ID"
+      value="725dbe05-e75e-43ac-843a-9a8e0347b891"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiegroep"/>
+</archimate:Grouping>

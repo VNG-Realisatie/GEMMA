@@ -314,8 +314,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b8c2fdb6958c4a7c889ae516a2043a00"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4e255f3feb3f442983415cf5333180e8"
@@ -331,8 +330,8 @@
         width="152"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-a034eeb4-e7e3-4eed-8420-13b406260a39.xml#id-a034eeb4-e7e3-4eed-8420-13b406260a39"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-47c85d5845d64872a58c3c651e067436.xml#id-47c85d5845d64872a58c3c651e067436"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

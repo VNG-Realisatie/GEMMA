@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sleutelbeheercomponent"
+    id="id-52a04b84172044839f62f1efec7a3c8f"
+    documentation="Technologiecomponent voor het genereren, opslaan en distribueren van cryptografische sleutels.">
+  <properties
+      key="Object ID"
+      value="ddbe2aef-f6a4-4d04-9c4f-20794c64e40e"/>
+  <properties
+      key="GEMMA status"
+      value="In ontwikkeling"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiecomponent"/>
+</archimate:SystemSoftware>

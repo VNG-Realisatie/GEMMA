@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opslagservices"
+    id="id-6acb59d5299a47168776a14456b5fc13"
+    documentation="Groepering van services die opslagruimte en gerelateerde beheerfunctionaliteiten bieden voor het opslaan, beheren en ophalen van data">
+  <properties
+      key="Object ID"
+      value="c35cff5b-bb06-4159-93e1-8f3028549af5"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiegroep"/>
+</archimate:Grouping>

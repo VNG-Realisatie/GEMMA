@@ -485,8 +485,7 @@
         font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#daeef3"
-        type="1">
+        fillColor="#daeef3">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-40707"
@@ -505,8 +504,8 @@
           width="133"
           height="53"/>
       <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-b05eaafa-9381-45ae-a41d-7a9affaa43cd.xml#id-b05eaafa-9381-45ae-a41d-7a9affaa43cd"/>
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-272b0b89c68b4c1192089adda72ba526.xml#id-272b0b89c68b4c1192089adda72ba526"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1484,8 +1483,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40744"
@@ -1504,8 +1502,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-a034eeb4-e7e3-4eed-8420-13b406260a39.xml#id-a034eeb4-e7e3-4eed-8420-13b406260a39"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-47c85d5845d64872a58c3c651e067436.xml#id-47c85d5845d64872a58c3c651e067436"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1513,8 +1511,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40711"
@@ -1533,8 +1530,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-0e6a7170-d3c6-48a9-a8f2-1e2e0bdd401e.xml#id-0e6a7170-d3c6-48a9-a8f2-1e2e0bdd401e"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-4e992995bec24b80a609324362ab030c.xml#id-4e992995bec24b80a609324362ab030c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1542,8 +1539,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40730"
@@ -1562,8 +1558,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-90b5871c-727f-40dd-b36f-ed229386ae57.xml#id-90b5871c-727f-40dd-b36f-ed229386ae57"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-982b6eb66a844febac7ee10a199a9230.xml#id-982b6eb66a844febac7ee10a199a9230"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1571,8 +1567,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40725"
@@ -1591,8 +1586,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-9e2de725-c726-4df0-ab87-94c452c9d03e.xml#id-9e2de725-c726-4df0-ab87-94c452c9d03e"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-151990a9a63b4a51a0da2a8eda5566b8.xml#id-151990a9a63b4a51a0da2a8eda5566b8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1600,8 +1595,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40769"
@@ -1620,8 +1614,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-d7ce409e-19c8-4ed8-9764-2ebada7021cc.xml#id-d7ce409e-19c8-4ed8-9764-2ebada7021cc"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-cd43fafc38e4447d82ef7b8cc7cbd869.xml#id-cd43fafc38e4447d82ef7b8cc7cbd869"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1629,8 +1623,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40741"
@@ -1649,8 +1642,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-1cdb21e9-978d-44f6-b76d-3b38baaa62fa.xml#id-1cdb21e9-978d-44f6-b76d-3b38baaa62fa"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-0bc74a1acfbb4382ba5a255ce38a95b0.xml#id-0bc74a1acfbb4382ba5a255ce38a95b0"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1687,8 +1680,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40746"
@@ -1707,8 +1699,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-5c0d0728-945f-4158-a9e4-691ad6a0e9e4.xml#id-5c0d0728-945f-4158-a9e4-691ad6a0e9e4"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-f07f943060234f34a40108cbd71ff0cb.xml#id-f07f943060234f34a40108cbd71ff0cb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1745,8 +1737,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40713"
@@ -1765,8 +1756,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-a8d9d887-7054-49ad-a5bd-ae92f8c530f2.xml#id-a8d9d887-7054-49ad-a5bd-ae92f8c530f2"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-717a93b4f36b4d968d025f584178e667.xml#id-717a93b4f36b4d968d025f584178e667"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1774,8 +1765,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40765"
@@ -1794,8 +1784,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-120929af-1488-4d0e-9951-2cb0204e5182.xml#id-120929af-1488-4d0e-9951-2cb0204e5182"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-ac6477bae5084fe9bc00fa40ca145e41.xml#id-ac6477bae5084fe9bc00fa40ca145e41"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1832,8 +1822,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40728"
@@ -1852,8 +1841,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-d6a75ce7-522b-411d-8f00-80bb14f30389.xml#id-d6a75ce7-522b-411d-8f00-80bb14f30389"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-796518aef64c41c0a41cc961b9799283.xml#id-796518aef64c41c0a41cc961b9799283"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1861,8 +1850,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40723"
@@ -1881,8 +1869,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-f370ccf9-e8bc-4546-bb40-0a4a02e5bd20.xml#id-f370ccf9-e8bc-4546-bb40-0a4a02e5bd20"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-6fd27b3c5e53453ebad6ba0f1f01e941.xml#id-6fd27b3c5e53453ebad6ba0f1f01e941"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1977,8 +1965,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40757"
@@ -1997,8 +1984,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-983cd422-096a-4d99-8444-dc76561c9a9d.xml#id-983cd422-096a-4d99-8444-dc76561c9a9d"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-4fcc3a6211314932b0446cd1e761e1c8.xml#id-4fcc3a6211314932b0446cd1e761e1c8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -2006,8 +1993,7 @@
       font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40738"
@@ -2026,8 +2012,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-b76c70df-1570-479b-8341-cd2982443858.xml#id-b76c70df-1570-479b-8341-cd2982443858"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-a03477f26818429eb5b06e45721c0b66.xml#id-a03477f26818429eb5b06e45721c0b66"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

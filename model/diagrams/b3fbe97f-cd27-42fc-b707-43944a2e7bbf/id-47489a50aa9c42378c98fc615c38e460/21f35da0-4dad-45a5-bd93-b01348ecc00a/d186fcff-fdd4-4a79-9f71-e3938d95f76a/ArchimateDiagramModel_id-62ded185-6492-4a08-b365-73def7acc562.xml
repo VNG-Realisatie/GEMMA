@@ -121,8 +121,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
+      fillColor="#daeef3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-32900"
@@ -141,8 +140,8 @@
         width="133"
         height="53"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-3e79874f-3a37-49bd-86ef-d48d0f2ed4a1.xml#id-3e79874f-3a37-49bd-86ef-d48d0f2ed4a1"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-8b3bba1f0627498bbea1fc9744d2285d.xml#id-8b3bba1f0627498bbea1fc9744d2285d"/>
   </children>
   <properties
       key="Object ID"

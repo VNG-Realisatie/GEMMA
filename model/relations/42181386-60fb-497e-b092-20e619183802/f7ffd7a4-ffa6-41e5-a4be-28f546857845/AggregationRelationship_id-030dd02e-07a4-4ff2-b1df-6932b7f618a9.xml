@@ -9,6 +9,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_id-37c2b614-7e96-4b76-86a6-66cd49c79923.xml#id-37c2b614-7e96-4b76-86a6-66cd49c79923"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-b05eaafa-9381-45ae-a41d-7a9affaa43cd.xml#id-b05eaafa-9381-45ae-a41d-7a9affaa43cd"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-272b0b89c68b4c1192089adda72ba526.xml#id-272b0b89c68b4c1192089adda72ba526"/>
 </archimate:AggregationRelationship>

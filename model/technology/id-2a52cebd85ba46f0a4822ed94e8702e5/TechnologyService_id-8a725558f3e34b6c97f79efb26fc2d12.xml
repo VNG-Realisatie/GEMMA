@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technische logging"
+    id="id-8a725558f3e34b6c97f79efb26fc2d12"
+    documentation="Technologieservice voor het registreren van gedetailleerde logboeken van systeemactiviteiten, fouten en gebeurtenissen voor analyse en foutopsporing.">
+  <properties
+      key="Object ID"
+      value="eebf4a4f-8aff-45c4-884f-6969ef79af81"/>
+  <properties
+      key="GEMMA type"
+      value="Technologieservice"/>
+</archimate:TechnologyService>

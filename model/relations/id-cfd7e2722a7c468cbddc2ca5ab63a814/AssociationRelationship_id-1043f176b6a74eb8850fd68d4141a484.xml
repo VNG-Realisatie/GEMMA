@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="was-wordt"
+    id="id-1043f176b6a74eb8850fd68d4141a484"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="3e5f30dc-f06f-40d0-b821-5bb4bb0fd98a"/>
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-796518aef64c41c0a41cc961b9799283.xml#id-796518aef64c41c0a41cc961b9799283"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4b4a9e357b8b43f2a27505b08658fb8b.xml#id-4b4a9e357b8b43f2a27505b08658fb8b"/>
+</archimate:AssociationRelationship>

@@ -11,8 +11,8 @@
       key="Object ID"
       value="00885308-f0c3-4b2b-99b1-b9cfb1240985"/>
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-b05eaafa-9381-45ae-a41d-7a9affaa43cd.xml#id-b05eaafa-9381-45ae-a41d-7a9affaa43cd"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-272b0b89c68b4c1192089adda72ba526.xml#id-272b0b89c68b4c1192089adda72ba526"/>
   <target
       xsi:type="archimate:Constraint"
       href="Constraint_id-819c2fe5-db4e-4b6f-8071-6a63fd400e34.xml#id-819c2fe5-db4e-4b6f-8071-6a63fd400e34"/>

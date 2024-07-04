@@ -73,8 +73,8 @@
           href="AssociationRelationship_id-91da8185d1a443c68440673cba2b5689.xml#id-91da8185d1a443c68440673cba2b5689"/>
     </sourceConnections>
     <bounds
-        x="720"
-        y="320"
+        x="710"
+        y="510"
         width="201"
         height="61"/>
     <archimateElement
@@ -325,9 +325,18 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-be0fec53c4e746fa94137088d7256b5f.xml#id-be0fec53c4e746fa94137088d7256b5f"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-67186888a3d64895a2e7f90f73069161"
+        source="id-7e73bdb5828442d2956d79d56da4bb21"
+        target="id-eb509b0bf98340be9085663797f5efc9">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-7684a9c7b31d482dbd2e62d523e06bbb.xml#id-7684a9c7b31d482dbd2e62d523e06bbb"/>
+    </sourceConnections>
     <bounds
-        x="720"
-        y="150"
+        x="670"
+        y="340"
         width="201"
         height="61"/>
     <archimateElement
@@ -406,8 +415,8 @@
           href="AggregationRelationship_id-92d620e641184732960968387f702d5d.xml#id-92d620e641184732960968387f702d5d"/>
     </sourceConnections>
     <bounds
-        x="1060"
-        y="530"
+        x="1210"
+        y="440"
         width="400"
         height="140"/>
     <children
@@ -429,6 +438,22 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-9643c65b2e864532bdd0b8eb7834d6bc.xml#id-9643c65b2e864532bdd0b8eb7834d6bc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-eb509b0bf98340be9085663797f5efc9"
+      targetConnections="id-67186888a3d64895a2e7f90f73069161">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="720"
+        y="960"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-b9629bc4fbf843e2982afa08e3e9f018.xml#id-b9629bc4fbf843e2982afa08e3e9f018"/>
   </children>
   <properties
       key="generate_view_param"
